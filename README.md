@@ -21,17 +21,3 @@
 <samp>I thrive in remote-first teams, with proven experience contributing to distributed projects using tools like Discord, ClickUp, and GitHub. My strong communication and problem-solving skills ensure seamless collaboration and productivity, regardless of location.</samp>
 
 <samp>Whether managing tasks, brainstorming solutions, or delivering results, I adapt quickly and effectively to new tools and technologies to keep projects moving forward.</samp>
-
-## <samp>Contact</samp>
-
-<div align="left">
-  <a href="mailto:campanellajuan14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="http://www.linkedin.com/in/juan-jos%C3%A9-campanella-de-oro-8a694220b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://discordapp.com/users/juanjoseok" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-</div>
